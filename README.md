@@ -1,16 +1,17 @@
-## Hi there 👋
+# Portafolio de proyectos
 
-<!--
-**condorisegoviafabrizio-eng/condorisegoviafabrizio-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software, automatización y herramientas digitales.
 
-Here are some ideas to get you started:
+Bienvenido a mi espacio de trabajo en GitHub. Aquí comparto mis proyectos y su evolución, con atención a la utilidad, la organización del código y la claridad de la documentación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+
+- **Automatización:** herramientas para simplificar tareas y procesos.
+- **Desarrollo de software:** aplicaciones y soluciones prácticas.
+- **Documentación:** instrucciones claras para comprender y utilizar cada proyecto.
+
+## Explorar mi trabajo
+
+[Ver mis repositorios públicos](https://github.com/condorisegoviafabrizio-eng?tab=repositories&type=public)
+
+En cada nuevo proyecto, priorizo explicar el problema que resuelve, sus tecnologías, los pasos de instalación y ejemplos de uso.
