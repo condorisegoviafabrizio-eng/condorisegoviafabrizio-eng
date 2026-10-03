@@ -1,17 +1,36 @@
 # Roger Fabrizio Segovia Condori
 
-Software, automatización y herramientas digitales.
+**Software · Automatización · Herramientas digitales**
 
-Bienvenido a mi espacio de trabajo en GitHub. Aquí comparto mis proyectos y su evolución, con atención a la utilidad, la organización del código y la claridad de la documentación.
+Bienvenido a mi portafolio. Aquí reúno mis proyectos de software y su evolución, con atención a la utilidad, la organización del código y la claridad de la documentación.
 
-## Áreas de interés
+## Enfoque
 
-- **Automatización:** herramientas para simplificar tareas y procesos.
-- **Desarrollo de software:** aplicaciones y soluciones prácticas.
-- **Documentación:** instrucciones claras para comprender y utilizar cada proyecto.
+- Automatizar tareas y procesos mediante herramientas prácticas.
+- Crear aplicaciones y paneles para consultar información.
+- Documentar la configuración y el uso de cada proyecto.
 
-## Explorar mi trabajo
+## Tecnologías en mis proyectos
 
-[Ver mis repositorios públicos](https://github.com/condorisegoviafabrizio-eng?tab=repositories&type=public)
+| Tecnología | Aplicación |
+| --- | --- |
+| **Python** | Scripts, consulta de datos y automatización |
+| **HTML** | Paneles e interfaces web |
+| **GitHub Actions** | Ejecución programada de procesos |
+| **JSON** | Registro y almacenamiento de información |
 
-En cada nuevo proyecto, priorizo explicar el problema que resuelve, sus tecnologías, los pasos de instalación y ejemplos de uso.
+## Proyecto destacado
+
+### [Innova Notifier](https://github.com/condorisegoviafabrizio-eng/innova-notifier)
+
+Monitor de mensajes de Innova Family con notificaciones por WhatsApp, panel HTML y ejecución programada en GitHub Actions.
+
+**Tecnologías:** Python, Requests, Beautiful Soup, HTML y GitHub Actions.
+
+[Consultar el proyecto y su documentación](https://github.com/condorisegoviafabrizio-eng/innova-notifier#readme)
+
+## Explorar más
+
+[Ver todos mis repositorios públicos](https://github.com/condorisegoviafabrizio-eng?tab=repositories&type=public)
+
+En cada nuevo proyecto, priorizo explicar el problema que resuelve, las tecnologías utilizadas, los pasos de instalación y ejemplos de uso.
